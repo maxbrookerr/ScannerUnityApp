@@ -1,0 +1,289 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4740128855710226593
+  m_GuidHigh: 8250025149922395269
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5317244246553608738
+      m_GuidHigh: 5341778994436777880
+    m_SerializedTextureGuid:
+      m_GuidLow: 16444741657956516574
+      m_GuidHigh: 3785985652344929016
+    m_Size: {x: 0.18, y: 0.0952}
+    m_SpecifySize: 1
+    m_Name: barry
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5023931256558628592
+      m_GuidHigh: 8331767007920055170
+    m_SerializedTextureGuid:
+      m_GuidLow: 10712694870405923456
+      m_GuidHigh: 15700976559381837418
+    m_Size: {x: 0.18, y: 0.0952}
+    m_SpecifySize: 1
+    m_Name: omakase
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5299141010432994938
+      m_GuidHigh: 13503270532605935779
+    m_SerializedTextureGuid:
+      m_GuidLow: 15311771087612245913
+      m_GuidHigh: 8259899343262817243
+    m_Size: {x: 0.18, y: 0.0952}
+    m_SpecifySize: 1
+    m_Name: 2001
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5704781212229826536
+      m_GuidHigh: 10045975119145895579
+    m_SerializedTextureGuid:
+      m_GuidLow: 9573465320589458569
+      m_GuidHigh: 14155329305173911386
+    m_Size: {x: 0.18, y: 0.0952}
+    m_SpecifySize: 1
+    m_Name: br2049
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4699602438826630022
+      m_GuidHigh: 9164354256646204554
+    m_SerializedTextureGuid:
+      m_GuidLow: 1448592024982235565
+      m_GuidHigh: 13206688450101135976
+    m_Size: {x: 0.18, y: 0.0952}
+    m_SpecifySize: 1
+    m_Name: cthd
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4617658675892236964
+      m_GuidHigh: 5501745841349578903
+    m_SerializedTextureGuid:
+      m_GuidLow: 3759691058832372335
+      m_GuidHigh: 12517726352521505771
+    m_Size: {x: 0.18, y: 0.0952}
+    m_SpecifySize: 1
+    m_Name: angels
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5206936996016798674
+      m_GuidHigh: 12299954489122005386
+    m_SerializedTextureGuid:
+      m_GuidLow: 15280887599666243760
+      m_GuidHigh: 5531912853784674761
+    m_Size: {x: 0.18, y: 0.0952}
+    m_SpecifySize: 1
+    m_Name: gladiator
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5337143439302607264
+      m_GuidHigh: 5803554247837274520
+    m_SerializedTextureGuid:
+      m_GuidLow: 11874487446243771531
+      m_GuidHigh: 9621280750623433785
+    m_Size: {x: 0.18, y: 0.0952}
+    m_SpecifySize: 1
+    m_Name: heat
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5165180912021517951
+      m_GuidHigh: 2170446132277941945
+    m_SerializedTextureGuid:
+      m_GuidLow: 17585829372139348680
+      m_GuidHigh: 2366678324447328523
+    m_Size: {x: 0.18, y: 0.0952}
+    m_SpecifySize: 1
+    m_Name: juno
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5376047187920558910
+      m_GuidHigh: 9382996111494076830
+    m_SerializedTextureGuid:
+      m_GuidLow: 7251696466851521332
+      m_GuidHigh: 10834155752213911481
+    m_Size: {x: 0.18, y: 0.0952}
+    m_SpecifySize: 1
+    m_Name: lighthouse
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5645176502056930169
+      m_GuidHigh: 10622131887462878342
+    m_SerializedTextureGuid:
+      m_GuidLow: 17631916645604094063
+      m_GuidHigh: 12188633011036132456
+    m_Size: {x: 0.18, y: 0.0952}
+    m_SpecifySize: 1
+    m_Name: mean
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5752631638904833094
+      m_GuidHigh: 4229116457756927627
+    m_SerializedTextureGuid:
+      m_GuidLow: 17610094618758871940
+      m_GuidHigh: 15242993981993749771
+    m_Size: {x: 0.18, y: 0.0952}
+    m_SpecifySize: 1
+    m_Name: north
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4852756267318600799
+      m_GuidHigh: 16436953767550898822
+    m_SerializedTextureGuid:
+      m_GuidLow: 16442173163260036055
+      m_GuidHigh: 15447306617062773802
+    m_Size: {x: 0.18, y: 0.0952}
+    m_SpecifySize: 1
+    m_Name: pulp
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5645621185119489851
+      m_GuidHigh: 17152677208309141412
+    m_SerializedTextureGuid:
+      m_GuidLow: 7277649973367241536
+      m_GuidHigh: 14540608092877960825
+    m_Size: {x: 0.18, y: 0.0952}
+    m_SpecifySize: 1
+    m_Name: royal
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4815798874840772484
+      m_GuidHigh: 9666999928726362264
+    m_SerializedTextureGuid:
+      m_GuidLow: 3769875501223230433
+      m_GuidHigh: 7631795467890537176
+    m_Size: {x: 0.18, y: 0.0952}
+    m_SpecifySize: 1
+    m_Name: spirited
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5594967170872522179
+      m_GuidHigh: 771453241197048981
+    m_SerializedTextureGuid:
+      m_GuidLow: 7233329539002636736
+      m_GuidHigh: 9210021167263448088
+    m_Size: {x: 0.18, y: 0.0952}
+    m_SpecifySize: 1
+    m_Name: suspiria
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5215680872692903482
+      m_GuidHigh: 15535000601381627011
+    m_SerializedTextureGuid:
+      m_GuidLow: 7217280307670019505
+      m_GuidHigh: 16919432538461263256
+    m_Size: {x: 0.18, y: 0.0952}
+    m_SpecifySize: 1
+    m_Name: thing
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4788260397817514321
+      m_GuidHigh: 12813634295957869701
+    m_SerializedTextureGuid:
+      m_GuidLow: 9560019857639448414
+      m_GuidHigh: 8981392897524501547
+    m_Size: {x: 0.247, y: 0.13351722}
+    m_SpecifySize: 1
+    m_Name: bill
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4820129424430323113
+      m_GuidHigh: 4364976349022851500
+    m_SerializedTextureGuid:
+      m_GuidLow: 1495971016610572299
+      m_GuidHigh: 4711094022126783352
+    m_Size: {x: 0.247, y: 0.13351722}
+    m_SpecifySize: 1
+    m_Name: leon
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4842170493023471559
+      m_GuidHigh: 1733493927633259170
+    m_SerializedTextureGuid:
+      m_GuidLow: 17647577500991555171
+      m_GuidHigh: 12088453290204224616
+    m_Size: {x: 0.247, y: 0.13351722}
+    m_SpecifySize: 1
+    m_Name: midsom
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5359149331435564152
+      m_GuidHigh: 16034771670890956443
+    m_SerializedTextureGuid:
+      m_GuidLow: 11818411241392870793
+      m_GuidHigh: 10705515847228464715
+    m_Size: {x: 0.247, y: 0.13351722}
+    m_SpecifySize: 1
+    m_Name: muldr
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5369619501621280037
+      m_GuidHigh: 16926960650721591936
+    m_SerializedTextureGuid:
+      m_GuidLow: 7247185989276904468
+      m_GuidHigh: 14836833320477162073
+    m_Size: {x: 0.247, y: 0.13351722}
+    m_SpecifySize: 1
+    m_Name: platoon
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5381009774634629185
+      m_GuidHigh: 16362336510982791861
+    m_SerializedTextureGuid:
+      m_GuidLow: 3817765757850614750
+      m_GuidHigh: 774194504139788633
+    m_Size: {x: 0.3495, y: 0.19656873}
+    m_SpecifySize: 1
+    m_Name: akira
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5093084867936378509
+      m_GuidHigh: 4585970853933262522
+    m_SerializedTextureGuid:
+      m_GuidLow: 17592932745730577849
+      m_GuidHigh: 6431697549483175386
+    m_Size: {x: 0.3495, y: 0.19656873}
+    m_SpecifySize: 1
+    m_Name: god
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5440481352681657466
+      m_GuidHigh: 15502618123261217168
+    m_SerializedTextureGuid:
+      m_GuidLow: 8363387504817173432
+      m_GuidHigh: 14589508813534764443
+    m_Size: {x: 0.3495, y: 0.19656873}
+    m_SpecifySize: 1
+    m_Name: raiders
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5285574565947146373
+      m_GuidHigh: 10240560935924617902
+    m_SerializedTextureGuid:
+      m_GuidLow: 16455699528821628591
+      m_GuidHigh: 18443509045345770633
+    m_Size: {x: 0.3495, y: 0.19656873}
+    m_SpecifySize: 1
+    m_Name: lotr
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5500871220732371751
+      m_GuidHigh: 1581171907250519939
+    m_SerializedTextureGuid:
+      m_GuidLow: 10710474309582172449
+      m_GuidHigh: 12782765483625565081
+    m_Size: {x: 0.18, y: 0.0952}
+    m_SpecifySize: 1
+    m_Name: pract
+    m_Texture: {fileID: 0}
